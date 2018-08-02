@@ -4,11 +4,6 @@
  * and open the template in the editor.
  */
 package Latihan;
-
-/**
- *
- * @author Hp
- */
 public class OperatorBitwise {
     public static void main(String[] args) {
         int x = 12; //dikonversi ke biner = 0000 1100

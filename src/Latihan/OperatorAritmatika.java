@@ -4,11 +4,6 @@
  * and open the template in the editor.
  */
 package Latihan;
-
-/**
- *
- * @author Hp
- */
 public class OperatorAritmatika {
     public static void main(String[] args) {
         int a = 10;
